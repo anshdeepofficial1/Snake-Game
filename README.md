@@ -1,4 +1,4 @@
-# Snake-Game
+# Snake-Game`n`n<p align="center">`n  <a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" height="40" /></a>`n  <a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" /></a>`n</p>
 
 ## Overview
 
@@ -69,10 +69,3 @@ This project is a simple, console-based Snake game implemented in C. The code de
      - Game logic updates are applied.
      - The loop pauses briefly using `Sleep(10)` to control the game speed.
    - When the game-over condition is reached, a final score is printed.
-
-## Support Development
-
-This project is free and open source. If you find it useful, you can support continued development through:
-
-- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
-- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
