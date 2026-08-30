@@ -69,3 +69,10 @@ This project is a simple, console-based Snake game implemented in C. The code de
      - Game logic updates are applied.
      - The loop pauses briefly using `Sleep(10)` to control the game speed.
    - When the game-over condition is reached, a final score is printed.
+
+## Support Development
+
+This project is free and open source. If you find it useful, you can support continued development through:
+
+- [GitHub Sponsors](https://github.com/sponsors/anshdeepofficial)
+- [Buy Me a Coffee](https://buymeacoffee.com/anshdeepofficial)
