@@ -6,10 +6,10 @@
 
 ![C](https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Stars](https://img.shields.io/github/stars/anshdeepofficial/Snake-Game?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/anshdeepofficial1/Snake-Game?style=for-the-badge&logo=github)
 
-<a href="https://github.com/sponsors/anshdeepofficial"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
-<a href="https://buymeacoffee.com/anshdeepofficial"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
+<a href="https://github.com/sponsors/anshdeepofficial1"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+<a href="https://buymeacoffee.com/anshdeepofficial1"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee" /></a>
 
 </div>
 
@@ -50,7 +50,7 @@ Snake Game is a lightweight console game written in C that demonstrates the fund
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/anshdeepofficial/Snake-Game.git
+git clone https://github.com/anshdeepofficial1/Snake-Game.git
 cd Snake-Game
 ```
 
@@ -67,5 +67,5 @@ Improvements and bug fixes are welcome. Fork the repository, create a focused br
 ---
 
 <div align="center">
-Made with code by <a href="https://github.com/anshdeepofficial">Anshdeep Singh</a>
+Made with code by <a href="https://github.com/anshdeepofficial1">Anshdeep Singh</a>
 </div>
